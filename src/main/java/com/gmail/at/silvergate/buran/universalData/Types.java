@@ -50,7 +50,6 @@ public class Types {
     public static final IType<IArray> ARRAY = new Type<>(IArray.class);
     public static final IType<IBinaryType> BINARY = new Type<>(IBinaryType.class);
 
-
     public static final Set<IType<?>> TYPES;
 
     static {
